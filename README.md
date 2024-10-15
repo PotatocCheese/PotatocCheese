@@ -1,1 +1,1 @@
-say hi to PotatocCheese
+say Hi to PotatocCheese
